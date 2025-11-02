@@ -1,1 +1,1 @@
-# epidemic-sentiment-forecasting
+# Epidemic Forecasting with Text Sentiment Analyses using LLMs
