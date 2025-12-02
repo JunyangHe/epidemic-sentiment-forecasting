@@ -1,1 +1,1 @@
-# SentiLLM: Epidemic Forecasting with Text Sentiment Analyses using LLMs
+# SentiFM: Epidemic Forecasting with Text Sentiment Analyses
