@@ -12,7 +12,7 @@ SentiFM is a research codebase for combining epidemiological time-series models 
   - 8803_EPI_llama_lstm_multimodel_fusion.ipynb          (SARIMAX modeling + LLaMA 3 + multi-model fusion)
 - doc/
   - SentiFM_Poster.pdf
-  - paper.pdf
+  - 8803_EPI_Final_Report.pdf
  
 
 ## How to Run
