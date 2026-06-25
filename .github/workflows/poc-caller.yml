@@ -1,0 +1,4 @@
+on: workflow_dispatch
+jobs:
+  call:
+    uses: JunyangHe/JunyangHe.github.io/blob/master/.github/workflows/poc-reusable.yml@master
